@@ -1,0 +1,8 @@
+{
+  "name": "todoer-gtk",
+  "version": "1.0.0",
+  "description": "A todo app for gtk made in Javascript",
+  "main": "index.js",
+  "author": "fernaned <fernandoed.bm@gmail.com>",
+  "license": "MIT"
+}
